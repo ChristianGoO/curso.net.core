@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\bin\Debug\01-CSharpTutorial.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\bin\Debug\01-CSharpTutorial.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\bin\Debug\01-CSharpTutorial.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\obj\Debug\01-CSharpTutorial.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\obj\Debug\01-CSharpTutorial.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\obj\Debug\01-CSharpTutorial.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\obj\Debug\01-CSharpTutorial.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\01-CSharpTutorial\01-CSharpTutorial\obj\Debug\01-CSharpTutorial.pdb
