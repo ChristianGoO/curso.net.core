@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\bin\Debug\02-Clases.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\bin\Debug\02-Clases.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\bin\Debug\02-Clases.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\obj\Debug\02-Clases.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\obj\Debug\02-Clases.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\obj\Debug\02-Clases.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\obj\Debug\02-Clases.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\02-Clases\02-Clases\obj\Debug\02-Clases.pdb

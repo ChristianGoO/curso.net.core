@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace _01_CSharpTutorial
 {
-    internal class Program
+    internal class @class
     {
-        static void Main(string[] args)
+
+        public static int var { get; set; }
+
+        static void Main(params string[] args)
         {
+            var variable = 1;
+
             string message = "Hello world";
 
             Console.WriteLine(message);
+            Console.WriteLine(variable);
             Console.ReadLine();
         }
+
     }
 }

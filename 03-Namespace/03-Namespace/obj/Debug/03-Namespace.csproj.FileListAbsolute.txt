@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\bin\Debug\03-Namespace.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\bin\Debug\03-Namespace.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\bin\Debug\03-Namespace.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\obj\Debug\03-Namespace.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\obj\Debug\03-Namespace.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\obj\Debug\03-Namespace.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\obj\Debug\03-Namespace.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\03-Namespace\03-Namespace\obj\Debug\03-Namespace.pdb
