@@ -22,7 +22,7 @@ namespace _09_DateTime
 
             DateTime dt4 = new DateTime(2015, 12, 31, 5, 10, 20, DateTimeKind.Utc);
             Console.WriteLine("El valor de dt4 es {0}", dt4.ToLocalTime());
-
+                
             try
             {
                 DateTime dt5 = new DateTime(2015, 12, 32);
@@ -41,7 +41,7 @@ namespace _09_DateTime
             Console.WriteLine("El ticks de la fecha minima es {0}", DateTime.MinValue.Ticks);
 
             Console.WriteLine("La fecha maxima es {0}", DateTime.MaxValue);
-            Console.WriteLine("El ticks de la fecha maxima es {0}", DateTime.MinValue.Ticks);
+            Console.WriteLine("El ticks de la fecha maxima es {0}", DateTime.MaxValue.Ticks);
 
             //CAMPOS ESTATICOS
             DateTime fechaHoraActual = DateTime.Now;

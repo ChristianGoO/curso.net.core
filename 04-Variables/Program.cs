@@ -44,7 +44,7 @@ namespace _04_Variables
             Console.WriteLine(num3);
 
             //DECLARAR E INICIALIZAR MULTIPLES VARIABLES
-            int i, j =10, k =10;
+            int i, j =10, k =20;
             i = 1;
             Console.WriteLine(i);
             Console.WriteLine(j);
