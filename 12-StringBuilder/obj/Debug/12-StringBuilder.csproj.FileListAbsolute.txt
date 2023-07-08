@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\bin\Debug\12-StringBuilder.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\bin\Debug\12-StringBuilder.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\bin\Debug\12-StringBuilder.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\obj\Debug\12-StringBuilder.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\obj\Debug\12-StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\obj\Debug\12-StringBuilder.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\obj\Debug\12-StringBuilder.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\12-StringBuilder\obj\Debug\12-StringBuilder.pdb

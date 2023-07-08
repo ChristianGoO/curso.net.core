@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\bin\Debug\15-Null.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\bin\Debug\15-Null.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\bin\Debug\15-Null.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\obj\Debug\15-Null.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\obj\Debug\15-Null.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\obj\Debug\15-Null.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\obj\Debug\15-Null.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\15-Null\obj\Debug\15-Null.pdb

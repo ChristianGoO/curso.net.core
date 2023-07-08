@@ -32,7 +32,7 @@ namespace _12_StringBuilder
             //ADD / AGREGAR UNA NUEVA LINEA DE STRINGBUILDER
             StringBuilder sb5 = new StringBuilder();
             sb5.Append("Hello");
-            sb5.AppendLine("world");
+            sb5.AppendLine(" world");
             sb5.AppendLine("Hello C#");
             Console.WriteLine(sb5);
 
