@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\bin\Debug\16-ValueTypesAndReferenceType.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\bin\Debug\16-ValueTypesAndReferenceType.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\bin\Debug\16-ValueTypesAndReferenceType.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\obj\Debug\16-ValueTypesAndReferenceType.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\obj\Debug\16-ValueTypesAndReferenceType.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\obj\Debug\16-ValueTypesAndReferenceType.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\obj\Debug\16-ValueTypesAndReferenceType.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\16-ValueTypesAndReferenceType\obj\Debug\16-ValueTypesAndReferenceType.pdb
