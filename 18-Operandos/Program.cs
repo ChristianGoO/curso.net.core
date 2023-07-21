@@ -9,6 +9,7 @@
             int x = 5 + 5;
             int y = x + 5;
             int z = y + x;
+
             //int w = 10L + 500000000000000;
             long w = 10L + 500000000000000;
             long a = 100000L * 100000L;
@@ -49,7 +50,7 @@
 
 
             //OPERACION  DE ASIGNACION NULA 
-            string str = "Hello world";
+            string str = null;
             str ??= "hola mundo";
 
             Console.WriteLine(str);

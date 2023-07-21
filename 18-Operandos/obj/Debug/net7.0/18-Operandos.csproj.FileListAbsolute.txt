@@ -1,0 +1,15 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\bin\Debug\net7.0\18-Operandos.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\bin\Debug\net7.0\18-Operandos.deps.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\bin\Debug\net7.0\18-Operandos.runtimeconfig.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\bin\Debug\net7.0\18-Operandos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\bin\Debug\net7.0\18-Operandos.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.AssemblyInfoInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.AssemblyInfo.cs
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\refint\18-Operandos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\18-Operandos.genruntimeconfig.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\18-Operandos\obj\Debug\net7.0\ref\18-Operandos.dll
