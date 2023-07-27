@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/23-ExtencionesMetodos.d11",
+            "args": [],
+            "cwd": "${workspaceFolder}/23-ExtencionesMetodos",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET core launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/18-Operandos/bin/Debug/net7.0/18-Operandos.d11",
+            "args": [],
+            "cwd": "${workspaceFolder}/18- Operandos",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "requiredExactSource": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

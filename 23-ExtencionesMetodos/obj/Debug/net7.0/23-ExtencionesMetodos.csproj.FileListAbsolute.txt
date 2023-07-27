@@ -1,0 +1,15 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.AssemblyInfoInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.AssemblyInfo.cs
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\bin\Debug\net7.0\23-ExtencionesMetodos.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\bin\Debug\net7.0\23-ExtencionesMetodos.deps.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\bin\Debug\net7.0\23-ExtencionesMetodos.runtimeconfig.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\bin\Debug\net7.0\23-ExtencionesMetodos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\bin\Debug\net7.0\23-ExtencionesMetodos.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\refint\23-ExtencionesMetodos.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\23-ExtencionesMetodos.genruntimeconfig.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\23-ExtencionesMetodos\obj\Debug\net7.0\ref\23-ExtencionesMetodos.dll
