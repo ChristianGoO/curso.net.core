@@ -1,0 +1,15 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\bin\Debug\net7.0\24-StatementsIf.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\bin\Debug\net7.0\24-StatementsIf.deps.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\bin\Debug\net7.0\24-StatementsIf.runtimeconfig.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\bin\Debug\net7.0\24-StatementsIf.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\bin\Debug\net7.0\24-StatementsIf.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.AssemblyInfoInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.AssemblyInfo.cs
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\refint\24-StatementsIf.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\24-StatementsIf.genruntimeconfig.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\24-StatementsIf\obj\Debug\net7.0\ref\24-StatementsIf.dll
