@@ -1,0 +1,15 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\bin\Debug\net7.0\26-Switch.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\bin\Debug\net7.0\26-Switch.deps.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\bin\Debug\net7.0\26-Switch.runtimeconfig.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\bin\Debug\net7.0\26-Switch.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\bin\Debug\net7.0\26-Switch.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.AssemblyInfoInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.AssemblyInfo.cs
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\refint\26-Switch.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\26-Switch.genruntimeconfig.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\26-Switch\obj\Debug\net7.0\ref\26-Switch.dll

@@ -1,0 +1,15 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\bin\Debug\net7.0\25-OperadorTemario.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\bin\Debug\net7.0\25-OperadorTemario.deps.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\bin\Debug\net7.0\25-OperadorTemario.runtimeconfig.json
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\bin\Debug\net7.0\25-OperadorTemario.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\bin\Debug\net7.0\25-OperadorTemario.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.AssemblyInfoInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.AssemblyInfo.cs
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\refint\25-OperadorTemario.dll
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\25-OperadorTemario.genruntimeconfig.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\25-OperadorTemario\obj\Debug\net7.0\ref\25-OperadorTemario.dll
