@@ -1,0 +1,8 @@
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\bin\Debug\30-Arrays.exe.config
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\bin\Debug\30-Arrays.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\bin\Debug\30-Arrays.pdb
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\obj\Debug\30-Arrays.csproj.AssemblyReference.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\obj\Debug\30-Arrays.csproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\obj\Debug\30-Arrays.csproj.CoreCompileInputs.cache
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\obj\Debug\30-Arrays.exe
+C:\PROYECTOS2\01_CAPACITACION\EJERCICIOS.NET\curso.net.core\30-Arrays\obj\Debug\30-Arrays.pdb
