@@ -63,7 +63,7 @@
                     Console.WriteLine("entrando al caso 4");
                     break;
                 case 5:
-                    Console.WriteLine("x = 5 o x = 4");
+                    Console.WriteLine("x = 5 o x = 4"   );
                     break;
                 default:
                     Console.WriteLine("x > 5");
@@ -159,7 +159,7 @@
         static int obtenerValor()
         {
             Random rnd = new Random();
-            return rnd.Next(0, 10);
+            return rnd.Next(0, 1);
         }
 
         static void MenuCajero()

@@ -11,42 +11,42 @@ namespace _27_For
         static void Main(string[] args)
         {
             //BUCLE FOR 
-            for(int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine($"el valor de i es {i}"); 
+                Console.WriteLine($"el valor de i es {i}");
             }
 
             //BUCLE FOR DE UNA SOLA SENTENCIA Y SIN LLAVES
-            for(int i = 0;i < 10; i++)
+            for (int i = 0; i < 10; i++)
                 Console.WriteLine($"el valor de i es {i}");
 
             //BUCLE FOR INFINITA CON INICIALIZADOR, CONDICION, INCREMENTO Y ROMPIMIENTO FUERA DE LA ESTRUCTURA
             int j = 0;
-            for(; ; )
+            for (; ; )
             {
                 if (j < 10)
                 {
-                    Console.WriteLine($"el valor de i es {j}");
+                    Console.WriteLine($"el valor de j es {j}");
                     j++;
                 }
                 else
                     break;
             }
 
-            //BUCLE INFINITO 
+            //bucle infinito 
             //for(; ; )
             //{
-            //    Console.WriteLine(1);
+            //    console.writeline(1);
             //}
 
             //BUCLE CON DOUBLE
-            for(double i = 1.01D; i < 10D; i+= 0.01D)
+            for (double i = 1.01D; i < 10D; i += 0.01D)
             {
                 Console.WriteLine($"El valor de i es {i}");
             }
 
-            //BUCLE INFINITO 
-            for(int i = 10; i > 0; i--)
+            //BUCLE FINITO 
+            for (int i = 10; i > 0; i--)
             {
                 Console.WriteLine($"el valor de i es {i}");
             }
@@ -63,7 +63,7 @@ namespace _27_For
             //BUCLE FOR  CON EXPRESIONES MULTIPLES
             for (int i = 0, k = 0; i + k < 5; i++, k++)
             {
-                Console.WriteLine($"el valor de i es {i}, y de j es {k}");
+                Console.WriteLine($"el valor de i es {i}, y de k es {k}");
             }
 
             //BUCLE FOR CON INSTRUCCIONES EN EL INICIALIZADOR  Y EN EL INCREMENTO
@@ -75,7 +75,7 @@ namespace _27_For
             }
 
             //BUCLE ANIDADO
-            for(int i = 0; i < 2; i++)
+            for (int i = 0; i < 2; i++)
             {
                 for (int h = i; h < 4; h++)
                 {
@@ -92,7 +92,7 @@ namespace _27_For
 
                 acumulado = resultado;
 
-                Console.WriteLine("l vueta es " + i);
+                Console.WriteLine("la vueta es " + i);
                 Console.WriteLine("el valor de resultado es " + resultado);
 
             }
@@ -104,17 +104,23 @@ namespace _27_For
             EstrellasVertical();
 
             //PINTAR UN TRIANGULO
-            PintarUnTriangulo ();
+            PintarUnTriangulo();
 
+            Console.WriteLine("------------");
+
+            PintarUnTrianguloInvertido();
+
+
+            Console.ReadLine();
 
         }
-        
+
         public static void EstrellasLineal()
         {
             int numEstrellas = 10;
             for (int i = 1; i <= numEstrellas; i++)
             {
-                Console.WriteLine("*");
+                Console.Write("*");
             }
         }
 
@@ -127,20 +133,32 @@ namespace _27_For
             }
         }
 
-        public static void PintarUnTriangulo()
+        public static void PintarUnTrianguloInvertido()
         {
-            int lineas = 10;
-            for (int j = lineas; j >= 1; j--)
+            for (int j = 10; j >= 1; j--)
             {
-                int numEstrellas = 1;
-                for (int i = 1; i <= numEstrellas; i++)
+                for (int i = 1; i <= j; i++)
                 {
-                    Console.WriteLine("*");
-
-                    Console.WriteLine();
+                    Console.Write("*");
                 }
+
+                Console.WriteLine();
             }
+
         }
 
+        public static void PintarUnTriangulo()
+        {
+            for (int j = 1; j <= 10; j++)
+            {
+                for (int i = 1; i <= j; i++)
+                {
+                    Console.Write("*");
+                }
+
+                Console.WriteLine();
+            }
+
+        }
     }
 }
