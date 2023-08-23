@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E10D0714-D581-477E-A415-5049AD4234F7}</ProjectGuid>
+    <ProjectGuid>{C2ECCF0C-6535-4C02-B7AA-E3AC6329E4C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_31_ArrayMultidimensional</RootNamespace>
-    <AssemblyName>31-ArrayMultidimensional</AssemblyName>
+    <RootNamespace>_32_MatricesIrregulares</RootNamespace>
+    <AssemblyName>32-MatricesIrregulares</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

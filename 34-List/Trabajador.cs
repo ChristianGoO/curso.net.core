@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _34_List
+{
+    internal class Trabajador : Persona
+    {
+        public string Empresa { get; set; }
+        public string tipoTrabajo { get; set; }
+    }
+}

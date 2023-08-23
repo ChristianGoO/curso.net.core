@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E10D0714-D581-477E-A415-5049AD4234F7}</ProjectGuid>
+    <ProjectGuid>{A7B15164-2321-4C67-AD74-DAE2A05952F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_31_ArrayMultidimensional</RootNamespace>
-    <AssemblyName>31-ArrayMultidimensional</AssemblyName>
+    <RootNamespace>_34_List</RootNamespace>
+    <AssemblyName>34-List</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Auto.cs" />
+    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Estudiante.cs" />
+    <Compile Include="Trabajador.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

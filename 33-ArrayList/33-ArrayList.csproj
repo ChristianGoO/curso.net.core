@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E10D0714-D581-477E-A415-5049AD4234F7}</ProjectGuid>
+    <ProjectGuid>{A3D4CB36-8ACF-40C5-A054-2F533B89B801}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_31_ArrayMultidimensional</RootNamespace>
-    <AssemblyName>31-ArrayMultidimensional</AssemblyName>
+    <RootNamespace>_33_ArrayList</RootNamespace>
+    <AssemblyName>33-ArrayList</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
